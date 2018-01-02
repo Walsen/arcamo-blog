@@ -12,10 +12,10 @@ Algunas definiciones utiles para entender los procesos y las herramientas relaci
 
 ### Proceso
 
-(* General) Sucesión de actos o acciones realizados con cierto orden, que se dirigen a un punto o finalidad, así como también al conjunto de fenómenos activos y organizados en el tiempo. 
-(* Informática) Un proceso es una serie de operaciones lógicas y aritméticas ejecutadas por el computador para gestionar datos suministrados y obtener resultados determinados.
-(* Economía/Negocios) Secuencia de actividades humanas, que transforman un conjunto específico de insumos en uno de rendimientos. 
-(* Industria) Conjunto de transformaciones que se realizan sobre materia prima hasta obtener el producto final terminado.
+* (* General) Sucesión de actos o acciones realizados con cierto orden, que se dirigen a un punto o finalidad, así como también al conjunto de fenómenos activos y organizados en el tiempo. 
+* (* Informática) Un proceso es una serie de operaciones lógicas y aritméticas ejecutadas por el computador para gestionar datos suministrados y obtener resultados determinados.
+* (* Economía/Negocios) Secuencia de actividades humanas, que transforman un conjunto específico de insumos en uno de rendimientos. 
+* (* Industria) Conjunto de transformaciones que se realizan sobre materia prima hasta obtener el producto final terminado.
 
 ### Patrón
 
